@@ -1,1 +1,7 @@
-# it-30-project-spring-2026
+# it-360-project-spring-2026
+## Team members--
+Nicholas Dunwoody 
+Keith Mccray
+
+## Project synopsis
+
